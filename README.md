@@ -6,7 +6,7 @@ The project uses the Tkinter library to create a simple graphical user interface
 
 2. How to Run the Chatbot
    1. Download or Clone the Repository
-    git clone https://github.com/your-username/cartoon-talks-chatbot.git
+    git clone https://github.com/annurag133/Cartoon_chatbot.git
     cd cartoon-talks-chatbot
 
    2. Run the Python Script
